@@ -34,7 +34,15 @@ Deriving from the SectionBase class will invoke the RunSection() in deriving cla
 	- Method Patterns
 	- Methods and the Maybe Monad
 - Section 5: Memory Management
-- Section 5:Assorted Topics
+	- In Parameters
+	- Ref Readonly Parameters
+	- Ref Struct and Span<T>
+	- Span<T> Demo
+- Section 6: Assorted Topics
+	- Exploiting Disposable
+	- Continuation Passing Style
+	- Local Inversion of Control
+	- Mnemonics
 
  
 
